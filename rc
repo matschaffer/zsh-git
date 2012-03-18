@@ -1,3 +1,5 @@
+source "$bundle_path/git.zsh"
+
 # Aliases
 alias g='git'
 compdef g=git
